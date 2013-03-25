@@ -1,0 +1,13 @@
+Registration_Login_Pages
+========================
+
+Questi sono dei piccoli script riguardanti dei form di registrazione e di login, adattabili a qualunque sito. 
+Sono scritti in HTML, per quanto riguarda i form e in PHP, per quanto le richieste al database. 
+
+E' presente anche un file .SQL che ho scritto per farvi vedere come ho creato il database per ospitare gli utenti. 
+
+Ancora non ho integrato le funzioni di protezione da XSS e da SQL Injection, ma credo che lo farò alla prossima pushata.
+
+Il codice non è interamente scritto da me (tranne l'.SQL e gli .HTML), poiché ho preso alcune parti da vari siti/documentazioni.
+
+Ovviamente, prendete pure se ne avete bisogno ;)
